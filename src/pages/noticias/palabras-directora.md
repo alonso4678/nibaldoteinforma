@@ -8,11 +8,11 @@ imgUrl: "/noticias/directora.jpg"
 tags: ["Personajes"]
 ---
 
-# Palabras de la Directora
+# **Palabras de la Directora**
 
 Señorita Macarena Soledad Martínez Fernández, oriunda de Portezuelo del Sector de Trancoyán, Profesora de Educación General Básica y Magister en Liderazgo Gestión Educativa. Se desempeñó por primera vez como docente el año 2005 en la Escuela Lomas de Chudal asumiendo la jefatura de dos cursos. Posteriormente, el año 2006 fue traslada a la Escuela Cucha Urrejola donde se desempeñó por 14 años como docente y encargada de Dirección. A partir del 2019, asume el desafío de tomar a la Dirección del Liceo Bicentenario de Excelencia Nibaldo Sepúlveda Fernández de la misma comuna.
 
-## DESAFÍOS NIBALDEANOS PARA EL 2023
+## **Desafíos Nibaldeanos para el 2023**
 
 1. Avanzar en el desarrollo pedagógico de los estudiantes en todas las asignaturas, a través, de la oferta de diversos talleres para que los estudiantes puedan desarrollar sus habilidades.
 2. Desarrollar de manera integral a los estudiantes resaltando los Sellos de nuestro establecimiento.
@@ -22,7 +22,7 @@ Señorita Macarena Soledad Martínez Fernández, oriunda de Portezuelo del Secto
 6. Dar respuesta a los intereses e inquietudes que tienen nuestros estudiantes a través de la gestión para poder apoyarles y responder a lo que necesiten.
 7. Seguir trabajando en el diseño para postular a un nuevo establecimiento, un sueño que por años se ha tenido y que no se ha podido concretar. Poder cumplir con la parte técnica que se nos pida para poder sacar adelante este proyecto y agilizar este proceso.
 
-## PALABRAS DE LA DIRECTORA A LA COMUNIDAD
+## **Palabras de la directora a la comunidad**
 
 “Decirles que como Directora y Establecimiento estamos muy contentos por tenerlos matriculados en nuestro establecimiento. Desearles a los estudiantes mucho éxito en sus aprendizajes, decirles que confiamos en ellos y ellas, que sabemos que tienen muchas capacidades y que este año que será muy positivo en cuanto a la mejora de la Convivencia Escolar. También, vamos a trabajar en conjunto para resolver cualquier situación que se pueda dar este año. Decirles a todos nuestros estudiantes que estamos preparados para enfrentar un gran año y que le vamos a brindar todos los apoyos necesarios y serán escuchados para que salgan adelante”.
 Como establecimiento apelamos a mantener un comportamiento respetuoso entre pares, hacia sus profesores, asistentes

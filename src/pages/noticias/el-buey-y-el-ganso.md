@@ -8,7 +8,7 @@ imgUrl: "/noticias/buey-ganso.jpg"
 tags: ["Cuento"]
 ---
 
-# Cuento: “El BUEY CIEGO Y EL GANSO”
+# **Cuento: “El BUEY CIEGO Y EL GANSO”**
 
 Esto es increíble, pero real, le ocurrió a una pequeña y modesta familia que vivía sólo a 20 metros de la capilla católica del caserío de Buenos Aires en la Comuna de Portezuelo.
 La historia nos relata lo que sucedió con un anciano buey ya ciego por sus años. Sus amos lo llamaban Copihue.

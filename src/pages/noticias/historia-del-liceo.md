@@ -8,7 +8,7 @@ imgUrl: "/noticias/hernan-gatica.jpg"
 tags: ["Personajes"]
 ---
 
-# Entrevista a don Germán Gatica, escritor.
+# **Entrevista a don Germán Gatica, escritor.**
 
 Don Germán Gatica Aguilera, famoso escritor de historias campesinas, oriundo del Sector de Buenos Aires de la Comuna de Portezuelo. Ha escrito varios libros y cuentos donde muestra la vida campestre y donde promueve el cuidado del medio ambiente.
 

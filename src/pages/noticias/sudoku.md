@@ -8,7 +8,7 @@ imgUrl: "/noticias/sudoku.jpg"
 tags: ["Entretención"]
 ---
 
-# ¿Cómo resolver un sudoku?
+# **¿Cómo resolver un sudoku?**
 
 Estos rompecabezas numéricos o sudoku ayudarán a los niños a repasar conceptos básicos
 matemáticos como los números. Además, también sirven como ejercicio de lógica y

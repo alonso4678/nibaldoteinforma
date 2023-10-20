@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "Cuento: CLUB DEPORTIVO ÑUBLENSE BUSCA TALENTOS PORTEZOLANOS"
+title: "Club deportivo Ñublense busca talentos Portezolanos"
 date: 14 de Mayo, 2023
 description: "Club de Deportes Ñublense busca en Portezuelo nuevos jugadores para su plantel."
 author: "Loreto Valenzuela"
@@ -8,10 +8,7 @@ imgUrl: "/noticias/talentos-futbol.jpg"
 tags: ["Deportes"]
 ---
 
-# “CLUB DEPORTIVO ÑUBLENSE BUSCA TALENTOS PORTEZOLANOS”
-
-
-
+# **“Club deportivo Ñublense Busca Talentos Portezolanos.”**
 El pasado mes de marzo, El equipo de Convivencia del Liceo Bicentenario de Excelencia Nibaldo Sepúlveda Fernández de
 la Comuna de Portezuelo, como una para fomentar, trabajar la Buena y Sana Convivencia Escolar, iniciaron el contacto
 con el equipo de primera división Club Deportivo Ñublense de la ciudad de Chillán, para descentralizar la búsqueda de
