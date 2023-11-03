@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: "Conociendo al inspector general"
-date: 09 de Mayo, 2023
+date: 07 de agosto, 2023
 description: "Aspectos relevantes sobre la labor de nuestro inspector general."
 author: "Loreto Valenzuela"
 imgUrl: "/noticias/inspector_general.jpg"
